@@ -177,7 +177,7 @@ main {
     background-repeat: repeat;
 }
 main .quote {
-    font-family: var(--font-principal);
+    font-family: var(--font-principal); !important
      font-size: 1.6rem;
 }
 main p {
