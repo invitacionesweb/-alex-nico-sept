@@ -177,8 +177,10 @@ main {
     background-repeat: repeat;
 }
 main .quote {
-    font-family: var(--font-principal); !important
+    font-family: var(--font-principal); 
      font-size: 1.6rem;
+     text-align: center;
+
 }
 main p {
     width: auto;
