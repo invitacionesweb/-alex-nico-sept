@@ -208,7 +208,7 @@ main img {
 }
 .timeline .horario {
     font-family: var(--font-principal);
-    font-weight: 800;
+    font-weight: bold;
 }
 .timeline img {
     width: 220px;
